@@ -1,0 +1,8 @@
+###
+GET localhost:8080/demo1
+
+###
+GET localhost:8080/demo2
+
+###
+GET localhost:8080/demo3
